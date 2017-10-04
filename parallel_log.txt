@@ -1,0 +1,108 @@
+starting worker pid=6536 on localhost:11921 at 23:38:44.410
+starting worker pid=11056 on localhost:11921 at 23:38:44.613
+starting worker pid=6788 on localhost:11921 at 23:38:45.018
+starting worker pid=14728 on localhost:11921 at 23:38:45.236
+starting worker pid=12480 on localhost:11921 at 23:38:45.451
+starting worker pid=12396 on localhost:11921 at 23:38:45.666
+Loading required package: caret
+Loading required package: lattice
+Loading required package: ggplot2
+loaded caret and set parent environment
+Loading required package: caret
+Loading required package: lattice
+Loading required package: ggplot2
+loaded caret and set parent environment
+Loading required package: caret
+Loading required package: lattice
+Loading required package: ggplot2
+loaded caret and set parent environment
+Loading required package: caret
+Loading required package: lattice
+Loading required package: ggplot2
+loaded caret and set parent environment
+Loading required package: caret
+Loading required package: lattice
+Loading required package: ggplot2
+loaded caret and set parent environment
+Loading required package: caret
+Loading required package: lattice
+Loading required package: ggplot2
+loaded caret and set parent environment
+loaded caret and set parent environment
+loaded caret and set parent environment
+loaded caret and set parent environment
+loaded caret and set parent environment
+loaded caret and set parent environment
+loaded caret and set parent environment
+loaded caret and set parent environment
+loaded caret and set parent environment
+loaded caret and set parent environment
+loaded caret and set parent environment
+loaded caret and set parent environment
+loaded caret and set parent environment
+loaded caret and set parent environment
+loaded caret and set parent environment
+loaded caret and set parent environment
+loaded caret and set parent environment
+loaded caret and set parent environment
+loaded caret and set parent environment
+loaded caret and set parent environment
+loaded caret and set parent environment
+loaded caret and set parent environment
+loaded caret and set parent environment
+loaded caret and set parent environment
+loaded caret and set parent environment
+starting worker pid=13660 on localhost:11711 at 18:22:37.385
+starting worker pid=16116 on localhost:11711 at 18:22:37.609
+starting worker pid=7320 on localhost:11711 at 18:22:37.823
+starting worker pid=9376 on localhost:11711 at 18:22:38.055
+starting worker pid=2916 on localhost:11711 at 18:22:38.260
+starting worker pid=9492 on localhost:11711 at 18:22:38.478
+Loading required package: caret
+Loading required package: lattice
+Loading required package: ggplot2
+loaded caret and set parent environment
+Loading required package: caret
+Loading required package: lattice
+Loading required package: ggplot2
+loaded caret and set parent environment
+Loading required package: caret
+Loading required package: lattice
+Loading required package: ggplot2
+loaded caret and set parent environment
+Loading required package: caret
+Loading required package: lattice
+Loading required package: ggplot2
+loaded caret and set parent environment
+Loading required package: caret
+Loading required package: lattice
+Loading required package: ggplot2
+loaded caret and set parent environment
+Loading required package: caret
+Loading required package: lattice
+Loading required package: ggplot2
+loaded caret and set parent environment
+loaded caret and set parent environment
+loaded caret and set parent environment
+loaded caret and set parent environment
+loaded caret and set parent environment
+loaded caret and set parent environment
+loaded caret and set parent environment
+loaded caret and set parent environment
+loaded caret and set parent environment
+loaded caret and set parent environment
+loaded caret and set parent environment
+loaded caret and set parent environment
+loaded caret and set parent environment
+loaded caret and set parent environment
+loaded caret and set parent environment
+loaded caret and set parent environment
+loaded caret and set parent environment
+loaded caret and set parent environment
+loaded caret and set parent environment
+loaded caret and set parent environment
+loaded caret and set parent environment
+loaded caret and set parent environment
+loaded caret and set parent environment
+loaded caret and set parent environment
+loaded caret and set parent environment
